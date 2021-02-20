@@ -1,0 +1,4 @@
+const myMap = (array, cb) => {
+
+    
+}
